@@ -1,4 +1,4 @@
-l- let data
+let data
 let args
 let options = {
   term: '',          // always the first argument
@@ -188,11 +188,11 @@ Usage:
 
   To find all tag names starting with 'modal-'
 
-    $ deno hade.js modal -t startsWith
+    $ deno hade.js 'modal-' -t startsWith
 
   To find all tag names ending with '-modal' sorted alphabetically
 
-    $ node hade.js -modal -t endsWith -s alphabetical
+    $ node hade.js '-modal' -t endsWith -s alphabetical
 
   To display JSON output
 

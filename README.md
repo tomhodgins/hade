@@ -115,13 +115,13 @@ $ node hade.js body -t exact
 To find all tag names starting with `modal-`
 
 ```bash
-$ deno hade.js modal -t startsWith
+$ deno hade.js 'modal-' -t startsWith
 ```
 
 To find all tag names ending with `-modal` sorted alphabetically
 
 ```bash
-$ node hade.js -modal -t endsWith -s alphabetical
+$ node hade.js '-modal' -t endsWith -s alphabetical
 ```
 
 To display JSON output
