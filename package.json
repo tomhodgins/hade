@@ -1,0 +1,36 @@
+{
+  "name": "hade",
+  "version": "1.0.0",
+  "description": "HTTPArchive DOM Explorer",
+  "main": "index.js",
+  "bin": {
+    "hade": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhodgins/hade.git"
+  },
+  "keywords": [
+    "HTTP",
+    "Archive",
+    "DOM",
+    "Explorer",
+    "HTML",
+    "tag",
+    "name",
+    "desktop",
+    "mobile",
+    "usage",
+    "custom",
+    "element"
+  ],
+  "author": "Tommy Hodgins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomhodgins/hade/issues"
+  },
+  "homepage": "https://github.com/tomhodgins/hade#readme"
+}

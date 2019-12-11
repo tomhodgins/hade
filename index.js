@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 let data
 let args
 let options = {

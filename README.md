@@ -2,6 +2,8 @@
 
 HTTPArchive DOM Explorer command line tool.
 
+[![Run on Repl.it](https://repl.it/badge/github/tomhodgins/hade)](https://repl.it/github/tomhodgins/hade)
+
 ## About
 
 This utility lets you filter and sort data exported from the HTTPArchive crawl of 9,669,416 websites. Enter a search term, an optional matching type, an optional sorting order, and an output format.
