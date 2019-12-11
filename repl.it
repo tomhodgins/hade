@@ -1,2 +1,2 @@
 language = "bash"
-run = "node index.js --help"
+run = "node index.js --help;"
